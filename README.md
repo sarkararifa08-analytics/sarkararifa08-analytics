@@ -24,11 +24,13 @@
 
 ---
 
+## 📁 Projects
 | Project | Description | Tools | Status |
 |---------|------------|-------|--------|
 | [🧾 Billing Analytics Automation](https://github.com/sarkararifa08-analytics/Billing-Analytics-Automation-Python-Automation) | Desktop billing system with auto GST calculation & cart management | Python, Tkinter | ✅ Complete |
-| [📊 Sales Data Analysis](https://github.com/sarkararifa08-analytics/QVI_Data_Analysis) | Exploratory Data Analysis (EDA) on retail transaction data with business insights and visualizations | Python, Pandas, NumPy | ✅ Complete |
+| [📊 Sales Data Analysis](https://github.com/sarkararifa08-analytics/QVI_Data_Analysis) | Exploratory Data Analysis (EDA) on retail transaction data with business insights and visualizations | Python, Pandas, NumPy |✅ Complete|
 | 🔜 SQL Business Insights | Business KPI queries on e-commerce data | SQL, Excel | 🚧 Coming Soon |
+
 ---
 
 ## 📊 GitHub Stats
@@ -38,4 +40,4 @@
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifa-sarkar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarkararifa08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarkararifa08@gmail.com)   . I WANT TO CHANGE THE STATUS MARKED AS COMPLETE THE PYTHON AND PANDAS ONE . MODIFY IT PLEASE

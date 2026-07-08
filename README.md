@@ -24,13 +24,11 @@
 
 ---
 
-## 📁 Projects
 | Project | Description | Tools | Status |
 |---------|------------|-------|--------|
 | [🧾 Billing Analytics Automation](https://github.com/sarkararifa08-analytics/Billing-Analytics-Automation-Python-Automation) | Desktop billing system with auto GST calculation & cart management | Python, Tkinter | ✅ Complete |
-| 🔜 Sales Data Analysis | Exploratory analysis on retail sales dataset | Python, Pandas | 🚧 Coming Soon |
+| [📊 Sales Data Analysis](https://github.com/sarkararifa08-analytics/QVI_Data_Analysis) | Exploratory Data Analysis (EDA) on retail transaction data with business insights and visualizations | Python, Pandas, NumPy | ✅ Complete |
 | 🔜 SQL Business Insights | Business KPI queries on e-commerce data | SQL, Excel | 🚧 Coming Soon |
-
 ---
 
 ## 📊 GitHub Stats

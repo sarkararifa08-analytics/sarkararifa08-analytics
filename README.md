@@ -40,4 +40,4 @@
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifa-sarkar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarkararifa08@gmail.com)   . I WANT TO CHANGE THE STATUS MARKED AS COMPLETE THE PYTHON AND PANDAS ONE . MODIFY IT PLEASE
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarkararifa08@gmail.com)   . 
